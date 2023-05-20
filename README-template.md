@@ -38,18 +38,14 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ## My process
 
+Created a GitHub repository and set up GitHub pages to show end result.
+Copied repository and pushed a few test changes to main. 
+Using VisualStudio code to edit .html and .css files. 
+Taking it slow for now since this is my second .html project ever. 
+
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
